@@ -1,1 +1,19 @@
+*************************
+Main Comment:
+Hello everybody! I am so excited to be working with all of you this semester in C#! I have taken programming courses in Python and JavaScript, but I wanted to try something different. I eventually landed on this C# course! I am also very excited to be using Visual Studio Code. I absolutely love Visual Studio Code, but my previous courses had specific IDEs they wanted me to use, so I couldn't use Visual Studio Code. However, this time it is different!
 
+Also, I am looking for a group. Please reply to this or email me if you would like to work with me!
+
+*************************
+Reply 1:
+Hello class! I recommend using Visual Studio Code, I heavily used it for my Secure scripting class and it's very easy to use. After downloading the APP, create a new folder that will hold all of your class project files and then create a new file with .cs (I named mine Module1.cs). It should prompt you to download the C# Dev kit extension and the .NET Install Tool. I'm excited to learn another programming language, as this one was recommended to me by several IT department members at my job. Something I found interesting from this module was learning that C# was originally named cool.
+
+-> My reply: Hey! Thanks for this. It did not prompt me to install those extensions, so I appreciate you including the names of the extensions in here. It allowed me to search them up and download them from the extensions marketplace.
+
+*************************
+Reply 2:
+It is very important to understand how to work with Git or a version control system, especially when working on large projects. It can prevent mistakes and other problems when working on them. The good news is that you don't need to spend a lot of time learning how Git works. Knowing the basic commands and how repositories, branches, and trees work is enough. Here is a short article with video that may help you:
+https://www.freecodecamp.org/news/git-and-github-crash-course/
+
+-> My reply: Thanks a million! I was a little worried when I saw we would be using Git, since I do not know much about it. However, I will certainly use this article to learn the basics. Thanks again!
+After looking over the site, I can confirm that this is a good resource! To anyone who is worried like I was, I would definitely look over this site. It is not a very long or difficult watch, but it is very helpful!
